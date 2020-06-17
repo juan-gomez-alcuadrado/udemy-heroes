@@ -1,3 +1,3 @@
-# Motivo 
+# Notas 
 
-Este repositorio sirve para probar cosas
+Este proyecto se encarga de manejar los panes de la liga de justicia.
